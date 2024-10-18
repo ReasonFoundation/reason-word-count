@@ -1,0 +1,14 @@
+{
+    "name": "reason-dev/reason-word-count",
+    "description": "Adds a word count column to the WordPress posts table",
+    "type": "wordpress-plugin",
+    "require": {
+        "kernl/kernl-update-checker": "^4.0"
+    },
+    "authors": [
+        {
+            "name": "Justin Maurer",
+            "email": "justin@justinmaurer.dev"
+        }
+    ]
+}
